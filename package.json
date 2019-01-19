@@ -118,14 +118,25 @@
         {
           "legacy": true
         }
+      ],
+      [
+        "import",
+        {
+          "libraryName": "antd-mobile",
+          "style": "css"
+        }
       ]
     ]
   },
   "devDependencies": {
     "@babel/plugin-proposal-decorators": "^7.2.3",
+    "antd-mobile": "^2.2.8",
     "axios": "^0.18.0",
+    "babel-plugin-import": "^1.11.0",
     "mockjs": "^1.0.1-beta3",
     "mysql": "^2.16.0",
+    "react-id-swiper": "^1.6.8",
+    "react-persist": "^1.0.2",
     "react-redux": "^6.0.0",
     "react-router-dom": "^4.3.1",
     "redux": "^4.0.1",
