@@ -15,13 +15,6 @@ body {
   -webkit-touch-callout: none;
 }
 
-button,
-input,
-select,
-textarea {
-  appearance: none;
-}
-
 a {
   -webkit-tap-highlight-color: transparent;
   color: #333;
